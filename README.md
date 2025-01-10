@@ -1,6 +1,6 @@
-<center><img src="./logo/pumpfunlogo.jpg" width="200"/><img src="./logo/pumpfunlogo.jpg" width="200"/><img src="./logo/pumpfunlogo.jpg" width="200"/></center>
+<center><img src="./logo/trustpumpfun.jpg" width="200"/></center>
 
-## Pump.fun Smart Contract
+## trustpump.fun Smart Contract
 Welcome to pumpfunbot or pump.fun smart contract with the same functionality as before, such as adding virtual LP, removing LP, creating Raydium Pool. This is the Rust/Anchor smart contract of pump.fun.
 
 If you're interested in having the Pump.fun smart contract access or have any doubts, please reach out to me through the following contacts:
