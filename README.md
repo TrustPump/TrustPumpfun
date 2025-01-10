@@ -1,14 +1,19 @@
 <center><img src="./logo/trustpumpfun.jpg" width="200"/></center>
 
-## trustpump.fun Smart Contract
-Welcome to pumpfunbot or pump.fun smart contract with the same functionality as before, such as adding virtual LP, removing LP, creating Raydium Pool. This is the Rust/Anchor smart contract of pump.fun.
+## trustpump.fun
 
-If you're interested in having the Pump.fun smart contract access or have any doubts, please reach out to me through the following contacts:
+Pumpfun on steroids
 
-- <a href="https://t.me/tarpan_tg/">Telegram (tarpan_tg)</a>
-- <a href="https://discordapp.com/users/1026521907182444574">Discord (tarpan_web3)</a>
+### 1. X account must be verified
+### 2. GitHub account must be verified
+### 3. Website must be verified
+### 4. The platform token is $TPump
+### 5. After the contract is created, 10% of the supply is allocated to dev and automatically locked for 3 months.
+### 6. 1.5 SOL is required for creation, and 0.5sol is given to team. Used to repurchase and destroy $TPump token. 1sol is used to create LP on raydium.io.
+### 7. After LP is created, it can be traded after 24 hours.
+### 8. After the transaction, if rugged within 24 hours, all participants will be compensated with $TPump 
 
-You can check the tx to Remove vitual LP and Create Raydium Pool in this smart contract with CPI calls.  
-https://explorer.solana.com/tx/4L6MWmtV1ZsT8NFfbtu68ZYyYVbpvZ4iynJhPdZw8jESi28TxwojjTFs88Q5QRdNUb297aWfkKcoYP9Ya8npx8AV?cluster=devnet
 
-###  If you found this helpful, don't forget to <a href="https://github.com/sourlodine">follow</a> me.
+- <a> X </a>
+- <a href="https://TrustPump.fun"> web </a>
+- <a> telegram </a>
